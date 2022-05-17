@@ -1,0 +1,9 @@
+
+public class DefineStatic {
+
+	static int a;
+	
+	static void method() {
+		System.out.println(a);
+	}
+}
